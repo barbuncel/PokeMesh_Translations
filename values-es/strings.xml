@@ -200,7 +200,7 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="timers_colors">Color de rareza del temporizador.</string>
     <string name="timers_colors_summary">Habilitar o Inhabilitar diferentes colores basado en la rareza del Pokémon.</string>
     <string name="pokemesh_enable_advanced">Activar ajustes avanzados</string>
-    <string name="iq_test_summary">Asi que, necesitas los ajustes avanzados? Dejame verificar si puedes utilizarlos.</string>
+    <string name="iq_test_summary">Así que, necesitas los ajustes avanzados? Dejame verificar si puedes utilizarlos.</string>
     <string name="iq_one">¿Puede PokéMesh cazar Pokémons para mi?</string>
     <string name="iq_two">¿Por qué mi búsqueda tarda mucho en completar?</string>
     <string name="iq_three">¿Cuál es el propósito de los marcadores azules en el mapa?</string>
@@ -210,7 +210,7 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="mark_area_summary">Mostrar un circulo con el rango de cada etapa en el mapa.</string>
     <string name="go">Ir ahí!</string>
     <string name="lured_module">Módulo Cebo</string>
-    <string name="pokestop_gym_parse_failed">Error al recibir la información de los servidores de PokémonGO. Asegúra que el área escaneado está cerca del marcador. Intenta escanear cerca del marcador selecionado o sino inténtalo mas tarde si el problema persiste!</string>
+    <string name="pokestop_gym_parse_failed">Error al recibir la información de los servidores de PokémonGO. Asegúrate que el área escaneado está cerca del marcador. Intenta escanear cerca del marcador selecionado o sino inténtalo mas tarde si el problema persiste!</string>
     <string name="gym_level">Nivel de Gimnasio:</string>
     <string name="gym_points">Puntos de Gimnasio:</string>
     <string name="guards">Pokémons guardianes</string>
@@ -222,7 +222,7 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="ring_color">Círculo de barrido</string>
     <string name="ring_color_summary">Selecciona el color del circulo barrido</string>
     <string name="ring_border_color">Borde del circulo barrido</string>
-    <string name="ring_border_color_summary">Seleciona el color de los bordes del circulo barrido</string>
+    <string name="ring_border_color_summary">Selecciona el color de los bordes del circulo barrido</string>
     <string name="choose_color">Elegir un color</string>
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Mostrar el marcador principal en el centro del circulo barrido</string>
@@ -251,8 +251,8 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="select_group">Selecciona un grupo</string>
     <string name="def">Defecto</string>
     <string name="select_steps">Selecciona rango</string>
-    <string name="adblock_message">¡Por favor considera deshabilitar cualquier tipo de AdBlocker para to apoyar nuestro trabajo. Gracias!</string>
-    <string name="adblock_message_forced">Las características de apoyarnos han sido dehabilitadas por una deteción de AdBlocker.</string>
+    <string name="adblock_message">¡Por favor considera deshabilitar cualquier tipo de AdBlocker para apoyar nuestro trabajo. Gracias!</string>
+    <string name="adblock_message_forced">Las características para apoyarnos han sido dehabilitadas por una deteción de AdBlocker.</string>
     <string name="more">Más…</string>
     <string name="send_to">Enviar a…</string>
     <string name="moves">Movimientos</string>
